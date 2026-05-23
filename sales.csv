@@ -1,0 +1,37 @@
+order_id,order_date,customer_name,region,category,product_name,quantity,sales,profit
+1,2025-01-01,Alice,South,Furniture,Chair,2,200.0,40.0
+2,2025-01-03,Bob,North,Technology,Laptop,1,900.0,200.0
+3,2025-01-05,Charlie,East,"Office Supplies",Notebook,10,50.0,10.0
+4,2025-01-07,Alice,South,Technology,Mouse,3,75.0,20.0
+5,2025-01-09,David,West,Furniture,Desk,1,300.0,80.0
+6,2025-01-10,Emma,North,Technology,Keyboard,2,120.0,30.0
+7,2025-01-12,Frank,East,Furniture,Table,1,450.0,100.0
+8,2025-01-15,Grace,South,"Office Supplies",Pen,20,40.0,8.0
+9,2025-02-01,Henry,North,Technology,Monitor,2,500.0,120.0
+10,2025-02-03,Isabella,East,Furniture,Sofa,1,700.0,150.0
+11,2025-02-05,Jack,South,"Office Supplies","Printer Paper",15,75.0,20.0
+12,2025-02-06,Karen,West,Technology,Tablet,3,900.0,250.0
+13,2025-02-08,Leo,North,Furniture,Bookshelf,1,250.0,60.0
+14,2025-02-10,Mia,East,Technology,Headphones,5,400.0,90.0
+15,2025-02-12,Nathan,South,Furniture,Lamp,4,180.0,50.0
+16,2025-02-15,Olivia,West,"Office Supplies",Stapler,10,60.0,15.0
+17,2025-02-18,Paul,North,Technology,Camera,1,650.0,180.0
+18,2025-02-20,Queen,East,Furniture,Cabinet,2,500.0,140.0
+1,2025-01-01,Alice,North,Technology,Laptop,2,1200.0,300.0
+2,2025-01-02,Bob,South,Furniture,Chair,5,500.0,100.0
+3,2025-01-03,Charlie,East,"Office Supplies",Notebook,10,150.0,40.0
+4,2025-01-05,David,West,Technology,Phone,3,900.0,200.0
+5,2025-01-07,Emma,North,Furniture,Table,1,350.0,80.0
+6,2025-01-10,Frank,South,Technology,Keyboard,4,200.0,50.0
+7,2025-01-12,Grace,East,"Office Supplies",Pen,20,100.0,30.0
+8,2025-01-15,Helen,West,Furniture,Cupboard,1,800.0,150.0
+9,2025-02-01,Henry,North,Technology,Monitor,2,500.0,120.0
+10,2025-02-03,Isabella,East,Furniture,Sofa,1,700.0,150.0
+11,2025-02-05,Jack,South,"Office Supplies","Printer Paper",15,75.0,20.0
+12,2025-02-06,Karen,West,Technology,Tablet,3,900.0,250.0
+13,2025-02-08,Leo,North,Furniture,Bookshelf,1,250.0,60.0
+14,2025-02-10,Mia,East,Technology,Headphones,5,400.0,90.0
+15,2025-02-12,Nathan,South,Furniture,Lamp,4,180.0,50.0
+16,2025-02-15,Olivia,West,"Office Supplies",Stapler,10,60.0,15.0
+17,2025-02-18,Paul,North,Technology,Camera,1,650.0,180.0
+18,2025-02-20,Queen,East,Furniture,Cabinet,2,500.0,140.0
